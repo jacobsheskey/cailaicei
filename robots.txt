@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thievainaz.dcode.io/sitemap.xml
